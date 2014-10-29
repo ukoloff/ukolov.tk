@@ -1,0 +1,7 @@
+name: Redirecting...
+encoding: utf-8
+highliter: off
+exclude:
+- README.md
+- CNAME
+to: ukoloff.tk
