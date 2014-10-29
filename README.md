@@ -1,4 +1,4 @@
 ukolov.tk
 =========
 
-Redirect to personal site
+Redirect to [personal site](/ukoloff/ukoloff.tk)
